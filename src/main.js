@@ -11,7 +11,7 @@ import 'video.js/dist/video-js.css'
 import '../static/js/rem'
 import toast from './components/tool/index'
 // import {baseUrl} from '../static/js/url.config'
-//
+//后台服务上线想在本地使用将这两行代码打开
 //
 // axios.defaults.baseURL= baseUrl
 Vue.config.productionTip = false
